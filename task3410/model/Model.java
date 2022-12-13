@@ -2,7 +2,6 @@ package com.javarush.task.task34.task3410.model;
 
 import com.javarush.task.task34.task3410.controller.EventListener;
 
-import java.nio.file.Path;
 import java.nio.file.Paths;
 
 public class Model {
